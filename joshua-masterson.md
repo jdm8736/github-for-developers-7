@@ -6,3 +6,5 @@
  * Sushi
 * A hobby:
  * Eating sushi
+*** Favorite color ***:
+## MAROON ##
