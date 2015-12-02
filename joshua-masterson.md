@@ -1,0 +1,8 @@
+* Name: 
+ * Josh Masterson
+* Where from:
+ * Texas
+* A fave food:
+ * Sushi
+* A hobby:
+ * Eating sushi
